@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+D:\Simplilearn\Day-15\Assignment\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb
